@@ -1,8 +1,6 @@
-streamlit
 pandas
 streamlit
 langchain
 langchain-community
 langchain-ollama
-ollama
-sqlite3
+
