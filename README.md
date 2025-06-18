@@ -23,8 +23,6 @@ A conversational AI-powered credit card recommendation system that assists users
 
 ![Demo GIF](https://github.com/your-username/credit-card-advisor/blob/main/demo.gif)
 
-> *Use any recording tool like Loom, OBS, Screenity, or ShareX to create a GIF preview.*
-
 ---
 
 ## ⚙️ Setup Instructions (macOS/Linux/Windows)
@@ -110,7 +108,7 @@ streamlit run app.py
 
 ## 🌐 Live Deployment
 
-[👉 Launch App on Streamlit](https://credit-card-advisor.streamlit.app)
+[https://credit-card-advisor-parv.streamlit.app/]
 
 ---
 
