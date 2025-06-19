@@ -21,8 +21,7 @@ A conversational AI-powered credit card recommendation system that assists users
 
 ## 📊 Demo
 
-![Demo GIF](https://github.com/your-username/credit-card-advisor/blob/main/demo.gif)
-
+https://drive.google.com/file/d/1d49SlUU4OU3EaylinIUwuD226i9BMexk/view?usp=drive_link
 ---
 
 ## ⚙️ Setup Instructions (macOS/Linux/Windows)
